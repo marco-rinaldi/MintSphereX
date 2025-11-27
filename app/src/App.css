@@ -1,0 +1,5 @@
+#root {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, rgba(13, 116, 255, 0.2), transparent 55%), #050816;
+  color: #f5f5ff;
+}
