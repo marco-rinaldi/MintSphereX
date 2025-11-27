@@ -1,5 +1,5 @@
 // Auto-generated from deployments/sepolia/MintSphereNFT.json
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x44A455F5A2C77D7D9C89E7C8D15Bbd832c80cC5B';
 
 export const CONTRACT_ABI = [
   {
